@@ -16,4 +16,6 @@ services:
 volumes:
   mssql-container-data:
 
-# docker-compose up --build -d
+# docker commands
+
+docker-compose up --build -d
